@@ -1,0 +1,76 @@
+Date : 2021-10-22 18:40:54
+Directory : /Users/davidverduzco/Desktop/homev2
+Total : 43 files,  17697 codes, 20 comments, 1183 blanks, all 18900 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          3 |     15,172 |          0 |          3 |     15,175 |
+| JavaScript |         28 |      2,070 |         17 |      1,032 |      3,119 |
+| CSS        |          4 |        277 |          0 |         90 |        367 |
+| XML        |          6 |         80 |          0 |          5 |         85 |
+| HTML       |          1 |         59 |          3 |         20 |         82 |
+| Markdown   |          1 |         39 |          0 |         33 |         72 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                 | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                    |         43 |     17,697 |         20 |      1,183 |     18,900 |
+| public                                                               |          2 |         84 |          3 |         21 |        108 |
+| src                                                                  |         36 |      2,404 |         16 |      1,126 |      3,546 |
+| src/Assets                                                           |          5 |         79 |          0 |          5 |         84 |
+| src/components                                                       |         18 |      1,547 |          8 |        916 |      2,471 |
++----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                             | language   | code       | comment    | blank      | total      |
++----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/davidverduzco/Desktop/homev2/README.md                        | Markdown   |         39 |          0 |         33 |         72 |
+| /Users/davidverduzco/Desktop/homev2/craco.config.js                  | JavaScript |         10 |          1 |          0 |         11 |
+| /Users/davidverduzco/Desktop/homev2/package-lock.json                | JSON       |     15,098 |          0 |          1 |     15,099 |
+| /Users/davidverduzco/Desktop/homev2/package.json                     | JSON       |         49 |          0 |          1 |         50 |
+| /Users/davidverduzco/Desktop/homev2/public/index.html                | HTML       |         59 |          3 |         20 |         82 |
+| /Users/davidverduzco/Desktop/homev2/public/manifest.json             | JSON       |         25 |          0 |          1 |         26 |
+| /Users/davidverduzco/Desktop/homev2/src/App.css                      | CSS        |         33 |          0 |          6 |         39 |
+| /Users/davidverduzco/Desktop/homev2/src/App.js                       | JavaScript |        338 |          0 |         59 |        397 |
+| /Users/davidverduzco/Desktop/homev2/src/App.test.js                  | JavaScript |          7 |          0 |          2 |          9 |
+| /Users/davidverduzco/Desktop/homev2/src/Assets/Connect.svg           | XML        |         12 |          0 |          1 |         13 |
+| /Users/davidverduzco/Desktop/homev2/src/Assets/Connnect.svg          | XML        |         12 |          0 |          1 |         13 |
+| /Users/davidverduzco/Desktop/homev2/src/Assets/Form.svg              | XML        |         25 |          0 |          1 |         26 |
+| /Users/davidverduzco/Desktop/homev2/src/Assets/Money.svg             | XML        |         25 |          0 |          1 |         26 |
+| /Users/davidverduzco/Desktop/homev2/src/Assets/hero-wave.svg         | XML        |          5 |          0 |          1 |          6 |
+| /Users/davidverduzco/Desktop/homev2/src/ConnectMe.jsx                | JavaScript |         19 |          0 |         12 |         31 |
+| /Users/davidverduzco/Desktop/homev2/src/LandingPage.css              | CSS        |        123 |          0 |         39 |        162 |
+| /Users/davidverduzco/Desktop/homev2/src/LandingPage.jsx              | JavaScript |        180 |          0 |         54 |        234 |
+| /Users/davidverduzco/Desktop/homev2/src/MA.jsx                       | JavaScript |         17 |          1 |         18 |         36 |
+| /Users/davidverduzco/Desktop/homev2/src/NavBar.js                    | JavaScript |         19 |          0 |          6 |         25 |
+| /Users/davidverduzco/Desktop/homev2/src/components/Address.jsx       | JavaScript |        102 |          0 |         48 |        150 |
+| /Users/davidverduzco/Desktop/homev2/src/components/Claims.jsx        | JavaScript |         76 |          1 |         44 |        121 |
+| /Users/davidverduzco/Desktop/homev2/src/components/Credit.jsx        | JavaScript |         81 |          1 |         46 |        128 |
+| /Users/davidverduzco/Desktop/homev2/src/components/Date.jsx          | JavaScript |        101 |          0 |         74 |        175 |
+| /Users/davidverduzco/Desktop/homev2/src/components/EmailPhone.jsx    | JavaScript |        168 |          2 |        101 |        271 |
+| /Users/davidverduzco/Desktop/homev2/src/components/Footer.jsx        | JavaScript |         37 |          0 |         12 |         49 |
+| /Users/davidverduzco/Desktop/homev2/src/components/Gender.jsx        | JavaScript |         72 |          1 |         45 |        118 |
+| /Users/davidverduzco/Desktop/homev2/src/components/HomeType.jsx      | JavaScript |         71 |          0 |         48 |        119 |
+| /Users/davidverduzco/Desktop/homev2/src/components/InsureStatus.jsx  | JavaScript |         66 |          0 |         45 |        111 |
+| /Users/davidverduzco/Desktop/homev2/src/components/Month.jsx         | JavaScript |         80 |          0 |         54 |        134 |
+| /Users/davidverduzco/Desktop/homev2/src/components/Name.jsx          | JavaScript |        123 |          2 |         76 |        201 |
+| /Users/davidverduzco/Desktop/homev2/src/components/OwnRent.jsx       | JavaScript |         72 |          1 |         49 |        122 |
+| /Users/davidverduzco/Desktop/homev2/src/components/Rooms.jsx         | JavaScript |         73 |          0 |         52 |        125 |
+| /Users/davidverduzco/Desktop/homev2/src/components/SquareFootage.jsx | JavaScript |         78 |          0 |         53 |        131 |
+| /Users/davidverduzco/Desktop/homev2/src/components/ThankYou.jsx      | JavaScript |         39 |          0 |         23 |         62 |
+| /Users/davidverduzco/Desktop/homev2/src/components/Year.jsx          | JavaScript |        101 |          0 |         51 |        152 |
+| /Users/davidverduzco/Desktop/homev2/src/components/YearBuilt.jsx     | JavaScript |        101 |          0 |         53 |        154 |
+| /Users/davidverduzco/Desktop/homev2/src/components/forms.css         | CSS        |        106 |          0 |         42 |        148 |
+| /Users/davidverduzco/Desktop/homev2/src/index.css                    | CSS        |         15 |          0 |          3 |         18 |
+| /Users/davidverduzco/Desktop/homev2/src/index.js                     | JavaScript |         13 |          3 |          3 |         19 |
+| /Users/davidverduzco/Desktop/homev2/src/logo.svg                     | XML        |          1 |          0 |          0 |          1 |
+| /Users/davidverduzco/Desktop/homev2/src/reportWebVitals.js           | JavaScript |         12 |          0 |          2 |         14 |
+| /Users/davidverduzco/Desktop/homev2/src/setupTests.js                | JavaScript |          1 |          4 |          1 |          6 |
+| /Users/davidverduzco/Desktop/homev2/tailwind.config.js               | JavaScript |         13 |          0 |          1 |         14 |
+| Total                                                                |            |     17,697 |         20 |      1,183 |     18,900 |
++----------------------------------------------------------------------+------------+------------+------------+------------+------------+
