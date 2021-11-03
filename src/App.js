@@ -52,6 +52,8 @@ class App extends Component {
       lp_campaign_key: 'r7zWCbyvMYB4KF2wJq9t',
       lp_s3: '12',
       lp_s4: '13',
+      TCPA_Consent: 'Yes',
+      TCPA_Language: 'By clicking Get My Quote I provide my electronic signature and express written consent to telemarketing calls, text messages, emails, and postal mail from this Web site, our marketing and re-marketing network, and up to eight insurance companies or their affiliates or representatives at the phone number (including wireless number), email address, and postal address provided by me. I consent to calls and text messages transmitting insurance quotes, or seeking related additional information from me, using an Automatic Telephone Dialing System or prerecorded or artificial voices. I consent that my signature is not a condition of purchasing any property, goods, or services and that I may revoke my consent at any time.',
       jornaya_lead_id: '',
       trusted_form_cert_id: '',
       first_name: '',
